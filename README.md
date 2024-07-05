@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Website CI4 Monitoring Employees Moreno Laundry
-- 🌱 I’m currently deep learning Javascript
+- 🔭 I’m currently working on Website Moreno Laundry
+- 🌱 I’m currently learning Next.js
 - 💬 Ask me about anything
 - 📫 How to reach me: kevinsudrajatd@gmail.com on email
